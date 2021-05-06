@@ -1,0 +1,13 @@
+C:\Users\IRFAN\source\repos\Demopro\Demopro\bin\Debug\netcoreapp3.1\Demopro.exe
+C:\Users\IRFAN\source\repos\Demopro\Demopro\bin\Debug\netcoreapp3.1\Demopro.deps.json
+C:\Users\IRFAN\source\repos\Demopro\Demopro\bin\Debug\netcoreapp3.1\Demopro.runtimeconfig.json
+C:\Users\IRFAN\source\repos\Demopro\Demopro\bin\Debug\netcoreapp3.1\Demopro.runtimeconfig.dev.json
+C:\Users\IRFAN\source\repos\Demopro\Demopro\bin\Debug\netcoreapp3.1\Demopro.dll
+C:\Users\IRFAN\source\repos\Demopro\Demopro\bin\Debug\netcoreapp3.1\Demopro.pdb
+C:\Users\IRFAN\source\repos\Demopro\Demopro\obj\Debug\netcoreapp3.1\Demopro.csprojAssemblyReference.cache
+C:\Users\IRFAN\source\repos\Demopro\Demopro\obj\Debug\netcoreapp3.1\Demopro.AssemblyInfoInputs.cache
+C:\Users\IRFAN\source\repos\Demopro\Demopro\obj\Debug\netcoreapp3.1\Demopro.AssemblyInfo.cs
+C:\Users\IRFAN\source\repos\Demopro\Demopro\obj\Debug\netcoreapp3.1\Demopro.csproj.CoreCompileInputs.cache
+C:\Users\IRFAN\source\repos\Demopro\Demopro\obj\Debug\netcoreapp3.1\Demopro.dll
+C:\Users\IRFAN\source\repos\Demopro\Demopro\obj\Debug\netcoreapp3.1\Demopro.pdb
+C:\Users\IRFAN\source\repos\Demopro\Demopro\obj\Debug\netcoreapp3.1\Demopro.genruntimeconfig.cache
